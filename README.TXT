@@ -3,6 +3,19 @@ Cette bibliothèque regroupe l'ensemble des codes utilisé dans les cours de gra
 
 N'hésitez pas a envoyer vos contribution ou à corriger si il y a une erreur dans un des codes ! 
 
+COMMENT RECUPERER LE CONTENU DU GIT ?
+
+0: Installez git
+1: Créez un repertoire de travail et ouvrez le en console.
+2: Saisissez : git clone  https://github.com/Deztabilizeur/greatBibliothequeOfLicence3.git
+3: Puis  : git remote add origin https://github.com/Deztabilizeur/greatBibliothequeOfLicence3.git
+
+Modifier ensuite votre code...
+
+Pour ajouter vos commit, créer le commit : git commit -m "mon commit" puis : git push -u origin master
+Attention, n'oubliez pas de vous faire ajouter à la liste des contributeurs, sinon vos commit seront ignorés.
+
+
 ---------ORGANISATION DE LA BIBLIOTHEQUE----------
 
 LISTE DES STRUCTURES DU COURS D'ALGO 
@@ -36,4 +49,3 @@ Matrice Creuse:
 Liste principale:
 
 File de successeurs:
-
